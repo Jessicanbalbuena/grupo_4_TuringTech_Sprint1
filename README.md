@@ -1,4 +1,10 @@
-Tematica del sitio: Hardware y perifericos para PC.
+#Grupo 4 Turing-Tech
+
+
+
+
+
+Tematica del sitio: Hardware y perifericos para PC. 🖥️
 
 Publico objetivo: Toda persona interesada en adquirir componentes para su PC o armado de una. 
 
