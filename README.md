@@ -1,12 +1,18 @@
-# Grupo 4 Turing-Tech  <h1> 
+# Grupo 4 Turing-Tech 🖥️ 
+  ## Equipo 🤓
 
+**Facundo De Benedetti:** 
 
+**Jessica Balbuena:** 
 
+**Sergio Gabriel Maqueda:** 
 
+**Diego Hidalgo:**  
+  
 
+##  Nombre de sitio a definir 🕹️🖱️🖥️ 
 
-
-Tematica del sitio: Hardware y perifericos para PC. 🖥️
+Tematica del sitio: Hardware y perifericos para PC. 
 
 Publico objetivo: Toda persona interesada en adquirir componentes para su PC o armado de una. 
 
