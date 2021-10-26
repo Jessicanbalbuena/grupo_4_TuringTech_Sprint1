@@ -7,7 +7,8 @@
 
 **Sergio Gabriel Maqueda:** 
 
-**Diego Hidalgo:**  
+**Diego Hidalgo:**  Primer acercamiento a la programacion, motivado a superarse en el hambito laboral y profesional,
+me gusta la tecnologia  y las inversiones en general  y la actividad fisica.
   
 
 ##  Nombre de sitio a definir 🕹️🖱️🖥️ 
