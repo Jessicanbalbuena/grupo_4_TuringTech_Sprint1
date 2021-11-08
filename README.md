@@ -11,7 +11,7 @@
 me gusta la tecnologia, las inversiones en general  y la actividad fisica.
   
 
-##  Nombre de sitio a definir 🕹️🖱️🖥️ 
+##  Turing Tech 🕹️🖱️🖥️ 
 
 Tematica del sitio: Hardware y perifericos para PC. 
 
