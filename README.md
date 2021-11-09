@@ -3,7 +3,7 @@
 
 **Facundo De Benedetti:** 
 
-**Jessica Balbuena:** 
+**Jessica Balbuena:** Apasionada de las series y la comida. Aprendiendo a programar de a poco y con muchas ganas de superarme día a día.
 
 **Sergio Gabriel Maqueda:** Inclinado hacia el Frontend, pero Intrigado por el desarrollo Backend, prefiere pelis antes que series, autodidacta por naturaleza.
 
